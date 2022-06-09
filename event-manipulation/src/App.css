@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.App{
+  width: 640px;
+  margin: auto;
+  background-color: #EBEBEB;
+}
+
+ul li {
+  background-color: white;
+  padding: 10px;
+  margin: 20px;
+}
+
+ul li .skills{
+  border-top: 1px solid #EBEBEB;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+ul li .skills span{
+  border: 1px solid #CCC;
+  margin-right: 5px;
+  padding: 2px;
+}
